@@ -1,0 +1,12 @@
+.container{
+    width:100%;
+    height: 90dvh;
+   
+}
+
+.large{
+    font-family: inherit;
+    font-size: 3rem;
+    text-align: center;
+    margin: 3rem;
+}
